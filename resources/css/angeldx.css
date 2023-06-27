@@ -1,0 +1,11 @@
+.card{
+    @apply bg-white shadow-lg rounded-lg overflow-hidden;
+}
+
+.card-body{
+    @apply py-4 p-4 dark:bg-gray-800/50 dark:bg-gradient-to-bl;
+}
+
+.card-title{
+    @apply text-xl text-gray-700 leading-5;
+}
